@@ -8,3 +8,6 @@ db.sqlite3
 
 # vscode
 .vscode/*
+
+# venv
+.venv/*
