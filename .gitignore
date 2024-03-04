@@ -3,7 +3,8 @@
 # local env files
 .env
 
-# dbs
+# Django
+__pycache__/
 db.sqlite3
 
 # vscode
